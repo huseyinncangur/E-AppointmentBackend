@@ -1,0 +1,13 @@
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\bin\Debug\net8.0\eAppointment.Domain.deps.json
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\bin\Debug\net8.0\eAppointment.Domain.dll
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\bin\Debug\net8.0\eAppointment.Domain.pdb
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\obj\Debug\net8.0\eAppointment.Domain.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\obj\Debug\net8.0\eAppointment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\obj\Debug\net8.0\eAppointment.Domain.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\obj\Debug\net8.0\eAppointment.Domain.AssemblyInfo.cs
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\obj\Debug\net8.0\eAppointment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\obj\Debug\net8.0\eAppointment.Domain.sourcelink.json
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\obj\Debug\net8.0\eAppointment.Domain.dll
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\obj\Debug\net8.0\refint\eAppointment.Domain.dll
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\obj\Debug\net8.0\eAppointment.Domain.pdb
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Domain\obj\Debug\net8.0\ref\eAppointment.Domain.dll

@@ -1,0 +1,6 @@
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Infrastructure\obj\Debug\net8.0\eAppointment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Infrastructure\obj\Debug\net8.0\eAppointment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Infrastructure\obj\Debug\net8.0\eAppointment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Infrastructure\obj\Debug\net8.0\eAppointment.Infrastructure.AssemblyInfo.cs
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Infrastructure\obj\Debug\net8.0\eAppointment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\E-Appointment\Backend\eAppointment.Infrastructure\obj\Debug\net8.0\eAppointment.Infrastructure.sourcelink.json
