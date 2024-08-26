@@ -1,4 +1,5 @@
 ﻿using eAppointment.Domain.Entities;
+using eAppointment.Domain.enums;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
@@ -10,6 +11,9 @@ namespace eAppointment.Infrastructure.Configurations
         {
             builder.Property(p => p.FirstName).HasColumnName("varchar(50)");
             builder.Property(p => p.LastName).HasColumnType("varchar(50)");
+            builder.Property(p => p.Department)
+                .HasConversion(v => v.Value, v => DepartmentEnum.FromValue(v))
+                .HasColumnName("Department");
         }
     }
 }

@@ -4,9 +4,9 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace eAppointment.Application
 {
-    public class DependencyInjection
+    public static class DependencyInjection
     {
-        public static IServiceCollection AddApplication(IServiceCollection services)
+        public static IServiceCollection AddApplication(this IServiceCollection services)
         {
             services.AddMediatR(configuration =>
             {
